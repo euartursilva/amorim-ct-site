@@ -19,6 +19,7 @@ Site no ar: https://euartursilva.github.io/amorim-ct-site/
 - **Preços dos planos:** em `index.html`, procure `class="plans"` e troque os valores.
 - **Horários:** em `index.html`, procure `class="hours-list"`.
 - **Trocar uma foto:** substitua o arquivo em `img/` mantendo o mesmo nome.
+- **Depois de mudar `style.css` ou `app.js`:** troque o número depois de `?v=` nos links do `index.html` (ex.: `style.css?v=2`), senão o navegador pode continuar mostrando o visual antigo.
 - **WhatsApp:** o número aparece como `5573998121551` em `index.html` e `app.js`.
 
 ## Publicação
