@@ -2,7 +2,7 @@
 
 Site da **Academia Amorim CT**, em Teixeira de Freitas – BA (Av. São Paulo, 960 – Jardim Caraipe, ao lado do Posto Dois Irmãos).
 
-Site no ar: https://euartursilva.github.io/amorim-ct-site/
+Site (demonstração): https://euartursilva.github.io/amorim-ct-site/
 
 ## Arquivos
 
